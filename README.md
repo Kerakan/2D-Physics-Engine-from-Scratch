@@ -4,11 +4,16 @@ As of today 11/02/2026 I have succesfully finished this project, it has been 2 w
 The Engine takes any amount of balls the user wants to input, I would recommend against using more than 250 since you might not be able to fully aprecciate what happens. As for the Math itself used in the engine I have done it all from scratch(even the Vec2 struct found in Vector2.h and every single formula used in Engine.cpp).
 
 ## Features 
-Custom Math Library: Lightweight Vector2.h implementation.   
+Custom Math Library: Lightweight Vector2.h implementation.
+
 Dynamic Simulation: Real-time particle/ball physics.
+
 Spatial Hashing: Implementation of a Spatial Hash in 2D in order to optimize ball to ball collision from O(n²) to ~O(n).
+
 Random Selection: Every time you initialize the Engine it will pick a random starting position and random velocity, mass and radius(dependent on mass).
+
 Debug Mode: Visual toggles to inspect velocities and collision boundaries.
+
 Interactive UI: Adjustable parameters for object count and simulation settings.
 
 Here is how the Ball selection looks when you run the Engine:
