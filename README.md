@@ -42,8 +42,8 @@ The implementation of Spatial Hashing significantly improved performance compare
 ## Gallery
 1. Stress Test (1000 Objects)
 
-Video here
+https://youtu.be/Ow4Zx42c5yY
 
 2. Debug View (Spatial Grid)
 
-Video here
+https://youtu.be/DGIDGoUcbz8
